@@ -2,6 +2,8 @@
 
 A fun and educational game that teaches safe driving practices by avoiding distractions and obstacles.
 
+This version tests how challenging it is to text while driving in a stressful environment.
+
 ## How to Play
 
 1. Use the arrow keys to control your car
