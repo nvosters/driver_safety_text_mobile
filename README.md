@@ -19,7 +19,7 @@ A fun and educational game that teaches safe driving practices by avoiding distr
    - Surviving longer (+5 points per second)
    - Avoiding collisions
 5. Lose points for:
-   - Safety violations (-25 points)
+   - Safety violations (-20 points)
 
 ## Controls
 
